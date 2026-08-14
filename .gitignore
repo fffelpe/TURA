@@ -1,0 +1,16 @@
+# Variáveis de ambiente e segredos
+.env
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos gerados pela automação (evita subir lixo para o repositório)
+*.xlsx
+*.csv
+
+# Ambientes Virtuais
+venv/
+env/
